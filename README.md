@@ -1,2 +1,2 @@
-# Exerc-cios-em-Java
-Exercícios Realizados em Java
+# Exercícios em Java.
+Exercícios Realizados em Java.
